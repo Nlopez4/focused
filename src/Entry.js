@@ -1,12 +1,11 @@
 import './Entry.css';
+import Navbar from './Navbar/index';
 
 // Entry component, "home page"
 function Entry() {
   return (
-    <div className="App">
-      <header className="App-header">
-       <h1>Focused App</h1>
-      </header>
+    <div className="entry">
+      <Navbar />
     </div>
   );
 }
