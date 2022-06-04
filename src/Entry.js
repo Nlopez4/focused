@@ -1,5 +1,5 @@
 import './Entry.scss';
-import Navbar from './Navbar/index';
+import Navbar from './components/Navbar/index';
 
 // Entry component, "home page"
 function Entry() {
