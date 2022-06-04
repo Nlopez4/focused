@@ -1,6 +1,7 @@
-import './App.css';
+import './Entry.css';
 
-function App() {
+// Entry component, "home page"
+function Entry() {
   return (
     <div className="App">
       <header className="App-header">
@@ -10,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default Entry;
