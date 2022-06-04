@@ -1,0 +1,10 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding-bottom: 2em;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}

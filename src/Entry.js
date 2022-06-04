@@ -1,4 +1,4 @@
-import './Entry.css';
+import './Entry.scss';
 import Navbar from './Navbar/index';
 
 // Entry component, "home page"

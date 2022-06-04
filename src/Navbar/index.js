@@ -1,11 +1,11 @@
-import './index.css';
+import './styles.scss';
 
 function Navbar() {
     return (
         <nav>
             <a href="/" className="brand-name">Focused</a>
                 <div
-                className="navigation-menu">
+                className="navigation-links">
                 <ul>
                 <li>
                     <a href="/articles">Articles</a>
