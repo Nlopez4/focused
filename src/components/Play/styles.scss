@@ -1,0 +1,13 @@
+.play-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.play-btn {
+    min-width: 10%;
+    min-height: 80px;
+    border-radius: 50px;
+    cursor: pointer;
+}
