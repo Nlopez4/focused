@@ -1,11 +1,11 @@
 import './Entry.scss';
-import Navbar from './components/Navbar/index';
+import Home from './components/Home/index';
 
 // Entry component, "home page"
 function Entry() {
   return (
     <div className="entry">
-      <Navbar />
+      <Home />
     </div>
   );
 }

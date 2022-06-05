@@ -1,0 +1,11 @@
+
+@use '../../index.scss';
+
+.brand-name {
+    font-size: clamp(3.0rem, 2.5vw, 5.5rem);
+    font-family: index.$name-font;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10%;
+}
