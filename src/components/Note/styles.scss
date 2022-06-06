@@ -2,6 +2,12 @@
     display: flex;
     text-align: center;
     justify-content: center;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 
+.note {
+    min-width: 300px;
+    height: 350px;
+    background-color: white;
+    border: 5px solid black;
+}
