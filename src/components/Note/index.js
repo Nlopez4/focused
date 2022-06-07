@@ -43,7 +43,7 @@ const [notes, setNotes] = useState(null);
             <div className="save-div">
                 <button className="save-btn">save</button>
             </div>
-            {notes && <SavedNote notes={notes}/>}
+           {notes && <SavedNote notes={notes}/>} 
         </form>
     )
 }
