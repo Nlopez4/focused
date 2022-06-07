@@ -77,6 +77,18 @@
     {
       "note": "it only adds when I refresh, not when i save it!!!",
       "id": 24
+    },
+    {
+      "note": "a note goes here",
+      "id": 25
+    },
+    {
+      "note": "a note",
+      "id": 26
+    },
+    {
+      "note": "my note",
+      "id": 27
     }
   ]
 }
